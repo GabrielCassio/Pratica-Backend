@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 /generated/prisma
+
+dev.bd
+*.bd
