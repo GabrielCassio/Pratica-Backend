@@ -27,3 +27,6 @@ dist-ssr
 
 dev.bd
 *.bd
+
+# Project config
+.env
